@@ -8,9 +8,33 @@
 </div>
 
 # 💻 Tech Stack
+### 💻 Programming Languages
+<p>
+<img src="https://img.shields.io/badge/Python-3178C6?style=flat&logo=python" alt="Python" /> <img src="https://img.shields.io/badge/C++-3178C6?style=flat&logo=c++" alt="C++" /> <img src="https://img.shields.io/badge/JavaScript-3178C6?style=flat&logo=javascript" alt="JavaScript" />
+</p>
 ### 🌐 Frontend Development
 <p>
 <img src="https://img.shields.io/badge/HTML5-61DAFB?style=flat&logo=html5" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-61DAFB?style=flat&logo=css3" alt="CSS3" />
+</p>
+### ⚙️ Backend Development
+<p>
+<img src="https://img.shields.io/badge/Django-43853D?style=flat&logo=django" alt="Django" />
+</p>
+### 🛢 Database
+<p>
+<img src="https://img.shields.io/badge/MySQL-333333?style=flat&logo=mysql" alt="MySQL" />
+</p>
+### ☁️ Cloud & Hosting
+<p>
+<img src="https://img.shields.io/badge/Docker-333333?style=flat&logo=docker" alt="Docker" /> <img src="https://img.shields.io/badge/AWS-333333?style=flat&logo=aws" alt="AWS" />
+</p>
+### 🔧 DevOps & CI/CD
+<p>
+<img src="https://img.shields.io/badge/Linux-2496ED?style=flat&logo=linux" alt="Linux" /> <img src="https://img.shields.io/badge/Git-2496ED?style=flat&logo=git" alt="Git" />
+</p>
+### 🛠 Tools & IDE
+<p>
+<img src="https://img.shields.io/badge/Git-333333?style=flat&logo=git" alt="Git" />
 </p>
 
 # 💻 Workspace Specs
